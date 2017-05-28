@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "170dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s792b625366e4d3a9605bca8acbde97b",
+    "_text_": "登録",
+    "_top_": {
+        "type": "string",
+        "value": "206dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "131dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "sd81346612f44ed397af9f27bb79d7e4"
+    },
+    "displaytext": true,
+    "id": "registerBtn",
+    "info": null,
+    "isvisible": true,
+    "kuid": "61c73fdd522540b4a10e85f5518e564e",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_eeb172f2a895475c9a9864e3c4582a4b",
+    "parent": "FlexContainer07ebfc72b047740",
+    "pf": "signupFrm",
+    "wType": "Button",
+    "zindex": 1
+}

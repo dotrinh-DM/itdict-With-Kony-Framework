@@ -1,0 +1,27 @@
+{
+    "AS_Button_032a64ecb5cf42859dd68cf27c86f1b7": {
+        "id": "AS_Button_032a64ecb5cf42859dd68cf27c86f1b7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Home",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f2a1d30b0ab54c9fb9b5b2a5e66cc500"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___1db13559a5f54e619f749a69aed8799e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "Hamburger",
+            "display": "Hamburger",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

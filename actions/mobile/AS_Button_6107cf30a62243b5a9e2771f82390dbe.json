@@ -1,0 +1,27 @@
+{
+    "AS_Button_6107cf30a62243b5a9e2771f82390dbe": {
+        "id": "AS_Button_6107cf30a62243b5a9e2771f82390dbe",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Home",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f2a1d30b0ab54c9fb9b5b2a5e66cc500"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___988298392c2b484d897507be2291ef7b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "insertGopy",
+            "display": "insertGopy",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

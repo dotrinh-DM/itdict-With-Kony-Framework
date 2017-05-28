@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        3,
+        3,
+        3
+    ],
+    "_skin_": "s45ab17c37dd4d839cd67033bf11ba50",
+    "_text_": "gopy content",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "richtextSegmentGopy",
+    "info": null,
+    "isvisible": true,
+    "kuid": "2c3b435280024e08bcfd65060d053795",
+    "name": "kony.ui.RichText",
+    "paddinginpixel": false,
+    "parent": "FlexContainer0bcbe4a1ca8b643",
+    "pf": "gopySegmentTemplate",
+    "wType": "RichText",
+    "watchos": {
+        "render": false
+    },
+    "widgetalignment": 5,
+    "windows10": {
+        "render": false
+    },
+    "winphone10": {
+        "render": false
+    },
+    "zindex": 1
+}

@@ -1,0 +1,20 @@
+{
+    "AS_Button_9d099876f17049b9a9c8d0c23ac69443": {
+        "id": "AS_Button_9d099876f17049b9a9c8d0c23ac69443",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__onClick_8730b749a6ef4fe7a990161b630f5c49",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "backHome",
+            "display": "backHome",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

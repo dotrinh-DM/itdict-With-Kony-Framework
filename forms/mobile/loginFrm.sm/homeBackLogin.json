@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb956247342a42bcb459eaaaf4df2ae0",
+    "_text_": "ホーム",
+    "_top_": {
+        "type": "string",
+        "value": "515dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "150%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "sd81346612f44ed397af9f27bb79d7e4"
+    },
+    "displaytext": true,
+    "id": "homeBackLogin",
+    "info": null,
+    "isvisible": true,
+    "kuid": "629800b6513f498bab775369522ec840",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_8e39aff4a88644b59fe60a8ed19bc0be",
+    "parent": "FlexContainer0eaf1f34597f446",
+    "pf": "loginFrm",
+    "wType": "Button",
+    "zindex": 1
+}

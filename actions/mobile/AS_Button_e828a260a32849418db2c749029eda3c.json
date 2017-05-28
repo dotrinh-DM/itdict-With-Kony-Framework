@@ -1,0 +1,24 @@
+{
+    "AS_Button_e828a260a32849418db2c749029eda3c": {
+        "id": "AS_Button_e828a260a32849418db2c749029eda3c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Home",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f2a1d30b0ab54c9fb9b5b2a5e66cc500"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__55836189b1384f73aadafe47373793ff",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.store.removeItem(\"historySeg\");\nalert(\"出来ました。\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

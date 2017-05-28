@@ -1,0 +1,74 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "46dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        20,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "入力してください",
+    "_skin_": "s6f844f4681b41b2ae12096c7e9f3395",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "58dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "299dp"
+    },
+    "android": {
+        "psp": {
+            "keyboardActionLabel": 1
+        }
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": true,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "txtSearch",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "closeButtonText": "",
+            "keyboardActionLabel": 1
+        }
+    },
+    "isvisible": true,
+    "keyboardactionlabel": 3,
+    "keyboardtype": "A",
+    "kuid": "e1a916a8c16047298710f000f2744e08",
+    "maxtextlength": 100,
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "ontextchange": "AS_TextField_c08d99f234d748a28fc14efd962ed738",
+    "paddinginpixel": false,
+    "parent": "MainContainer",
+    "pf": "Home",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 30
+}

@@ -1,0 +1,18 @@
+{
+    "AS_Form_3db2085af2704ee8a5bc47ea9b184b9f": {
+        "id": "AS_Form_3db2085af2704ee8a5bc47ea9b184b9f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "loginFrm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "509f86ade42243618d4ffdf019a506d3"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

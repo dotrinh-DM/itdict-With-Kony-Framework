@@ -1,0 +1,37 @@
+{
+    "AS_Button_fb18021a0fd8404eb0ae65a96678991b": {
+        "id": "AS_Button_fb18021a0fd8404eb0ae65a96678991b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "dashboardFrm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "1efaaa63ff344ed89e7a96815402657d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9be69fa3505e42b0b86b6c8513bcb950",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "backHome",
+            "display": "backHome",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }, {
+            "id": "NAVIGATE_TO_FORM___7fc77f86df44482da0d5bcbdc0c54ae7",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Home",
+            "formKUID": "f2a1d30b0ab54c9fb9b5b2a5e66cc500",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

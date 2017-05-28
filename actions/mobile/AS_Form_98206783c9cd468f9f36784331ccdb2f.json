@@ -1,0 +1,33 @@
+{
+    "AS_Form_98206783c9cd468f9f36784331ccdb2f": {
+        "id": "AS_Form_98206783c9cd468f9f36784331ccdb2f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "dashboardFrm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "1efaaa63ff344ed89e7a96815402657d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__faeb2df9a81b4b43a2193effcbb61367",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "dashboardFrm.FlexContainer0e586a19f2ea149.left = \"100%\";\ndashboardFrm.FlexContainer0e586a19f2ea149.isVisible = true;",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "INVOKE_FUNCTION___a42b5946abee4651841ae2c9dcb62ec0",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getAllStaredWord",
+            "display": "getAllStaredWord",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

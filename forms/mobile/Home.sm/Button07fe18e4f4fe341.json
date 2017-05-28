@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        20,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s542cb7331324ddcbf8ebfca60e438c1",
+    "_text_": "履歴を削除する",
+    "_top_": {
+        "type": "string",
+        "value": "307dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "315dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "displaytext": true,
+    "focusskin": "sae688fb2a604183ac11f0b3b15eaf2a",
+    "id": "Button07fe18e4f4fe341",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b26b723fb8ad4085a399ef581ae2da2b",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_d441a2ad1c514eb9aa86def2d6c20ee9",
+    "paddinginpixel": false,
+    "parent": "hamburger",
+    "pf": "Home",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,88 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf12020b3cc34386b4d80b01f2566c7d",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "FlexContainer0eaf1f34597f446"
+    ],
+    "containerweight": 100,
+    "currentLocale": "default",
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "GalaxyNote",
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "id": "loginFrm",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "inputAccessoryViewType": 4,
+            "titleBarConfig": {
+                "buttonClosureLeftSideView": "",
+                "buttonClosureRightSideView": "",
+                "buttonText": "Edit",
+                "leftButtonText": "Back",
+                "leftTitle": "Back",
+                "prevFormTitle": false,
+                "renderTitleText": true,
+                "rightTitle": "Edit",
+                "titleBarLeftSideView": "button",
+                "titleBarRightSideView": "button",
+                "titleClosureLeftSideView": "",
+                "titleClosureRightSideView": "",
+                "visible": true
+            }
+        },
+        "titleBar": true
+    },
+    "isvisible": true,
+    "kuid": "509f86ade42243618d4ffdf019a506d3",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "paddinginpixel": false,
+    "platform": "android",
+    "postshow": "AS_Form_5357e93049b142b490e9ec3ff93612bf",
+    "preshow": "AS_Form_a8c08823bd8d466b8f3a9b78aa0f9b59",
+    "prevDevice": "GalaxyS5",
+    "prevPlatform": "spaan",
+    "retainscrollposition": false,
+    "shellCSS": "and_GalaxyNote",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "titleBarSkin": "sdf03a80aec745d8b081496d1f29306d",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

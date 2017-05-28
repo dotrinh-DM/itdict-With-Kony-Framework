@@ -1,0 +1,20 @@
+{
+    "AS_Button_193878f269014aaa9c1bfa56ed23249b": {
+        "id": "AS_Button_193878f269014aaa9c1bfa56ed23249b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__onClick_d0391f19096d469dbfbd64ec752a2ef1",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "Hamburger",
+            "display": "Hamburger",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

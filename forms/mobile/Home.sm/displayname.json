@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "47dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "125dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1fe0d97e93f48bb8bba27b0f305c858",
+    "_text_": "dotrinhthanh",
+    "_top_": {
+        "type": "string",
+        "value": "23dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "140dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "disabledSkins": {
+        "focusSkin": "sd81346612f44ed397af9f27bb79d7e4"
+    },
+    "displaytext": true,
+    "id": "displayname",
+    "info": null,
+    "isvisible": false,
+    "kuid": "145bd8e49ef24cf9b16bd7071a9b0a4f",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_2333db0c9d4448db9607e51274e97f14",
+    "parent": "hamburger",
+    "pf": "Home",
+    "wType": "Button",
+    "zindex": 1
+}

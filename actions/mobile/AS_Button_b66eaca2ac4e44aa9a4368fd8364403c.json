@@ -1,0 +1,28 @@
+{
+    "AS_Button_b66eaca2ac4e44aa9a4368fd8364403c": {
+        "id": "AS_Button_b66eaca2ac4e44aa9a4368fd8364403c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__onClick_f0a0cd249165412eb5692108442f4602",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "backHome",
+            "display": "backHome",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }, {
+            "id": "INVOKE_FUNCTION__onClick_e41ed98872414838a4e9a16fefa32836",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "segHistoryData",
+            "display": "segHistoryData",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "36dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "135dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4be5c0701d54e9cb6a43f13e99a8a27",
+    "_text_": "Login",
+    "_top_": {
+        "type": "string",
+        "value": "27dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "115dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "sd81346612f44ed397af9f27bb79d7e4"
+    },
+    "displaytext": true,
+    "id": "loginBtn",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d8c6a975ff5e46beb7d45cb6b0f72d2c",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_e903b03ef89144958c7089173bb5cb50",
+    "parent": "hamburger",
+    "pf": "Home",
+    "wType": "Button",
+    "zindex": 1
+}

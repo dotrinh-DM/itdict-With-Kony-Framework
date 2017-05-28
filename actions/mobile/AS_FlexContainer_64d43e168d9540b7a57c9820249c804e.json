@@ -1,0 +1,33 @@
+{
+    "AS_FlexContainer_64d43e168d9540b7a57c9820249c804e": {
+        "id": "AS_FlexContainer_64d43e168d9540b7a57c9820249c804e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "Home",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f2a1d30b0ab54c9fb9b5b2a5e66cc500"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b183438ad14c492fb140dbd36eb43cae",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "Hamburger",
+            "display": "Hamburger",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

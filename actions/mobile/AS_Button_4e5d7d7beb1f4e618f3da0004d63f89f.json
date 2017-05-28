@@ -1,0 +1,18 @@
+{
+    "AS_Button_4e5d7d7beb1f4e618f3da0004d63f89f": {
+        "id": "AS_Button_4e5d7d7beb1f4e618f3da0004d63f89f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Home",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f2a1d30b0ab54c9fb9b5b2a5e66cc500"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

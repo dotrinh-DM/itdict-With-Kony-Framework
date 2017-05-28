@@ -1,0 +1,20 @@
+{
+    "AS_Button_2e01e5e38c03496dab74808fbfa138e1": {
+        "id": "AS_Button_2e01e5e38c03496dab74808fbfa138e1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__onClick_efe87d6810e34fdd908e255ded98f150",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "clearHistory",
+            "display": "clearHistory",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

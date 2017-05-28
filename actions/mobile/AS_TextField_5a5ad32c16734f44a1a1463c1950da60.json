@@ -1,0 +1,23 @@
+{
+    "AS_TextField_5a5ad32c16734f44a1a1463c1950da60": {
+        "id": "AS_TextField_5a5ad32c16734f44a1a1463c1950da60",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__onTextChange_cbeaf1c4ec3c4d03a609cd97c25fadea",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "autocompleteFunc",
+            "display": "autocompleteFunc",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

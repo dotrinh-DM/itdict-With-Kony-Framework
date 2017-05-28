@@ -1,0 +1,20 @@
+{
+    "AS_Button_abf2d94308694cef9f2908b25fcbddc1": {
+        "id": "AS_Button_abf2d94308694cef9f2908b25fcbddc1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__onClick_96b52d4195a34601ade8a7920bcfcb73",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "insertGopy",
+            "display": "insertGopy",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

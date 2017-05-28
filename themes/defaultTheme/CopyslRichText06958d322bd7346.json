@@ -1,0 +1,17 @@
+{
+  "background_color": "00000000",
+  "bg_type": "one",
+  "border_color": "42424266",
+  "border_radius": 5,
+  "border_style": "custom",
+  "border_type": 0,
+  "border_width": 1,
+  "font_color": "424242ff",
+  "font_name": "Helvetica",
+  "font_size": 156,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "s301fcf0352a46ae96cd488adab19f00",
+  "wType": "RichText"
+}

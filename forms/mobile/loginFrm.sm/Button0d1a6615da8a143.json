@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "170dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "11"
+    },
+    "_skin_": "s792b625366e4d3a9605bca8acbde97b",
+    "_text_": "ログイン",
+    "_top_": {
+        "type": "string",
+        "value": "180dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "130dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "sd81346612f44ed397af9f27bb79d7e4"
+    },
+    "displaytext": true,
+    "id": "Button0d1a6615da8a143",
+    "info": null,
+    "isvisible": true,
+    "kuid": "0456ac3441c141b69c85479dafef7788",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_b88222ca11cf4ab3a35a7f7462b37ba9",
+    "parent": "FlexContainer0950404bc7b414d",
+    "pf": "loginFrm",
+    "wType": "Button",
+    "zindex": 1
+}

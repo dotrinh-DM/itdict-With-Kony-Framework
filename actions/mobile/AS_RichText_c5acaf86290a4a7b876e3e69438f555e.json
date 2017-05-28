@@ -1,0 +1,18 @@
+{
+    "AS_RichText_c5acaf86290a4a7b876e3e69438f555e": {
+        "id": "AS_RichText_c5acaf86290a4a7b876e3e69438f555e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": []
+    }
+}

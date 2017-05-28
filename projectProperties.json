@@ -1,0 +1,211 @@
+{
+    "APPLICATION_THEME": "default",
+    "accountCloudGuid": "1adde2e4-65da-4e8d-913a-691091fb8b08",
+    "appaddrkey": "",
+    "appidkey": "Project00b76ba33e",
+    "applogokey": "",
+    "appmenu": {
+        "desktop": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "61274da2116b489a9898fe8a036b606c",
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "36f4d371d6a244aca8eb898e97193bda",
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "7d9236af92e243699e192110b00a5c6c",
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "a9678b180bfc4f829ee1d2d2072a260a",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "focusSkin": null,
+        "focusskin": null,
+        "mobile": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "0145b9512a754c929af9a5b9bba4d8ae",
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "cbaf3ecdc88942a1948a6bf26ba8ef97",
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "8846c145c86f44dba57a839ed8d6bf54",
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "01836052317543d0b8552657bc080566",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "osPlatform": "",
+        "osVersion": "iOS7",
+        "skin": null,
+        "tablet": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "4617bd4afbab45f19d9c3d727177867a",
+                    "title": "Item 1",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "2a440461a73f49469f69d114a3844d16",
+                    "title": "Item 2",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "ca9757563deb46d3b83799fbc2ff56e1",
+                    "title": "Item 3",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "b586ee1e85044d1d9386651e312c9b33",
+                    "title": "Item 4",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                }
+            ]
+        },
+        "wType": "Appmenu"
+    },
+    "appnamekey": "itDict",
+    "apppackagekey": "",
+    "appversionkey": "1.0.0",
+    "build": "debug",
+    "category": "app",
+    "createdVizVersion": "2.9.0",
+    "createdgaversion": "6.9.0",
+    "currentgaversion": "7.3.0",
+    "defaulttheme": "defaultTheme",
+    "desktopwebaligenmentoption": "Left",
+    "desktopwebbasefontsize": "16",
+    "desktopwebwidthoption": "percentage",
+    "ipadlandscapemodekey": "portrait",
+    "iphonewebshrtcutkey": "",
+    "isDpScaleFactor": true,
+    "isNewAppWithRespectToAndroidPackageName": "",
+    "konyVizVersion": "7.3.0",
+    "mastersProperties": {
+        "mastersVersion": "1.0.0"
+    },
+    "mwaddrkey": "",
+    "mwhttpsportkey": "",
+    "mwportkey": "",
+    "nativeContainerProperties": {
+        "isModified": false,
+        "isEnableJSContainer": false,
+        "isEnableJSContainerAndroid": false,
+        "isEnableJSContaineriOS": false
+    },
+    "project.type": "js",
+    "projectCloudGuid": "1947b396-6dc9-40b4-8f17-121733024c8d",
+    "project_version": "sprint27",
+    "prototype": {
+        "createdOn": "2017-05-28T09:09:20.003Z",
+        "createdById": "01859790-3256-4c74-bf10-664c39e01d7e",
+        "createdBy": "do trinh",
+        "shareGuid": "Q5834",
+        "resourceId": "48e6cfb2-222a-4eb1-86df-ad4ec152142f",
+        "PublishMode": "public"
+    },
+    "referenceWidth": "375",
+    "startupformkey": "Home",
+    "supportedorientations": [
+        "portrait"
+    ],
+    "supportmarginpixelindip": "true",
+    "tabletstartupformkey": "",
+    "vendornamekey": "KonyLabs",
+    "wap_android240_fontsize": "10",
+    "wap_android320_fontsize": "12",
+    "wap_android360_fontsize": "13",
+    "wap_android400_fontsize": "14",
+    "wap_android440_fontsize": "15",
+    "wap_android480_fontsize": "16",
+    "wap_android640_fontsize": "19",
+    "wap_bb240_fontsize": "12",
+    "wap_bb320_fontsize": "15",
+    "wap_bb360_fontsize": "13",
+    "wap_bb400_fontsize": "14",
+    "wap_bb440_fontsize": "15",
+    "wap_bb480_fontsize": "17",
+    "wap_ip_fontsize": "12",
+    "wap_spaandroidtab_fontsize": "17",
+    "wap_spaandroidtabhdpi_fontsize": "16",
+    "wap_spaandroidtabldpi_fontsize": "17",
+    "wap_spaandroidtabmdpi_fontsize": "14",
+    "wap_spaandroidtabxhdpi_fontsize": "18",
+    "wap_spaipad_fontsize": "17",
+    "wap_spawindowstab_fontsize": "17",
+    "wap_winphone320_fontsize": "12",
+    "wap_winphone480_fontsize": "12",
+    "winmobileguidkey": ""
+}

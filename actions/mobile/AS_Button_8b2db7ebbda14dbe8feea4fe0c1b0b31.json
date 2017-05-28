@@ -1,0 +1,20 @@
+{
+    "AS_Button_8b2db7ebbda14dbe8feea4fe0c1b0b31": {
+        "id": "AS_Button_8b2db7ebbda14dbe8feea4fe0c1b0b31",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__onClick_68dfc999451c4235a8ffdd7d88d18623",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "autocompleteFunc",
+            "display": "autocompleteFunc",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

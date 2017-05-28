@@ -1,0 +1,34 @@
+{
+    "AS_Button_fb251e80d7434f748b0b0c6723d0d88b": {
+        "id": "AS_Button_fb251e80d7434f748b0b0c6723d0d88b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Home",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f2a1d30b0ab54c9fb9b5b2a5e66cc500"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___70782ce4a36f4033866de6855d8c959b",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "About",
+            "formKUID": "5b20cf9e764b4c5a88a9ece290f8adfe",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }, {
+            "id": "ADD_SNIPPET__fb26cb9931f749b89d739fa83d4dfa3e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "Home.hamburger.left = \"-87%\";\nHome.MainContainer.left = \"0%\";\nHome.MainContainer.setEnabled(true);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

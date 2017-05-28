@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        20,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s542cb7331324ddcbf8ebfca60e438c1",
+    "_text_": "情報",
+    "_top_": {
+        "type": "string",
+        "value": "263dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "315dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "displaytext": true,
+    "focusskin": "sae688fb2a604183ac11f0b3b15eaf2a",
+    "id": "about",
+    "info": null,
+    "isvisible": true,
+    "kuid": "87e4794ff3844c3b82625889caab0a55",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_fb251e80d7434f748b0b0c6723d0d88b",
+    "paddinginpixel": false,
+    "parent": "hamburger",
+    "pf": "Home",
+    "wType": "Button",
+    "zindex": 1
+}

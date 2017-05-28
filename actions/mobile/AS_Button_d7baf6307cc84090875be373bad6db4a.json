@@ -1,0 +1,27 @@
+{
+    "AS_Button_d7baf6307cc84090875be373bad6db4a": {
+        "id": "AS_Button_d7baf6307cc84090875be373bad6db4a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Home",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f2a1d30b0ab54c9fb9b5b2a5e66cc500"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___dbff56b652134e99aa86e3910a6fd29e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "autocompleteFunc",
+            "display": "autocompleteFunc",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

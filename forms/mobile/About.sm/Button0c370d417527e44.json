@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "54dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc7630ff4e304af1abed03329c0ef159",
+    "_text_": "作者: dotrinh.com",
+    "_top_": {
+        "type": "string",
+        "value": "223dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "sd81346612f44ed397af9f27bb79d7e4"
+    },
+    "displaytext": true,
+    "id": "Button0c370d417527e44",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ef82867704a44aea99139bf7331cac75",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_f03e1b3aa2694526933de9ff9d49146c",
+    "parent": "FlexContainer087ecc15625e242",
+    "pf": "About",
+    "wType": "Button",
+    "zindex": 1
+}

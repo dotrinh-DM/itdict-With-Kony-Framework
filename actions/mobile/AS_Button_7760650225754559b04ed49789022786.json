@@ -1,0 +1,20 @@
+{
+    "AS_Button_7760650225754559b04ed49789022786": {
+        "id": "AS_Button_7760650225754559b04ed49789022786",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__onClick_9f5fbbad8e6c4563af0d5207741e04e8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "exitApp",
+            "display": "exitApp",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

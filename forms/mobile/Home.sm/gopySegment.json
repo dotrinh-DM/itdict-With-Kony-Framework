@@ -1,0 +1,150 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "dislikebold": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "dislikelight": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "likebold": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "likelight": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "numdislike": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "numlike": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "richtextSegmentGopy": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RichText"
+            },
+            "rowId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "tacgia": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "98%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "00",
+    "disabledSkins": {
+        "rowFocusSkin": "sc6505479f434d9d80d773ef2081b871",
+        "rowSkin": "s29ec534048d408899566fabe5a458fd"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "gopySegment",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "ab279e743339479e9bc449eb47108010",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "NewDetail",
+    "pf": "Home",
+    "retainselection": false,
+    "rowTemplateId": "1c08c114f39343caa8d8066c9ac02329",
+    "rowcounter": 0,
+    "rowskin": "s29ec534048d408899566fabe5a458fd",
+    "rowtemplate": "FlexContainer0bcbe4a1ca8b643",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s4a566a0e44e45d4aa2162e7660b5676",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer0bcbe4a1ca8b643": "FlexContainer0bcbe4a1ca8b643",
+        "dislikebold": "dislikebold",
+        "dislikelight": "dislikelight",
+        "likebold": "likebold",
+        "likelight": "likelight",
+        "numdislike": "numdislike",
+        "numlike": "numlike",
+        "richtextSegmentGopy": "richtextSegmentGopy",
+        "rowId": "rowId",
+        "tacgia": "tacgia"
+    },
+    "zindex": 15
+}

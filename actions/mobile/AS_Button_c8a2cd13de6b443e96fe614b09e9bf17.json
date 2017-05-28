@@ -1,0 +1,20 @@
+{
+    "AS_Button_c8a2cd13de6b443e96fe614b09e9bf17": {
+        "id": "AS_Button_c8a2cd13de6b443e96fe614b09e9bf17",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__onClick_266fcc098c0b43e0b260b92aa4a81b1f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "searchNow",
+            "display": "searchNow",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "AS_Button_9632c8ad075e41d281b2f9e3b3a23715": {
+        "id": "AS_Button_9632c8ad075e41d281b2f9e3b3a23715",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "gopySegmentTemplate",
+            "type": "templates",
+            "platform": "",
+            "KUID": "1c08c114f39343caa8d8066c9ac02329"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9c49669a82134941bf62bc870c1b5733",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dislikeFunction",
+            "display": "dislikeFunction",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

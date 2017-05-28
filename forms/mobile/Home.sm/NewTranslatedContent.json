@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        3,
+        3,
+        3
+    ],
+    "_skin_": "s955b99ce5934198ab98cf8da18348d1",
+    "_text_": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\ntempLorem ore et dolore magna Lorem ipsum dolor sit ",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "NewTranslatedContent",
+    "info": null,
+    "isvisible": true,
+    "kuid": "59a53160165a47e59c9e5834365bbbcb",
+    "name": "kony.ui.RichText",
+    "paddinginpixel": false,
+    "parent": "NewDetail",
+    "pf": "Home",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

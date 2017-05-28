@@ -1,0 +1,20 @@
+{
+    "AS_Button_2d31611ae31d4f72881953ef2c3d0d5f": {
+        "id": "AS_Button_2d31611ae31d4f72881953ef2c3d0d5f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__onClick_cb4b62d5d9c6493c96d7b6f7ec817acf",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "star",
+            "display": "star",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "AS_TextField_c08d99f234d748a28fc14efd962ed738": {
+        "id": "AS_TextField_c08d99f234d748a28fc14efd962ed738",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "Home",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f2a1d30b0ab54c9fb9b5b2a5e66cc500"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___1d8243e5ae8141ae9dc697bd6b386bbe",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "autocompleteFunc",
+            "display": "autocompleteFunc",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

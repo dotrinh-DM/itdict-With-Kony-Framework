@@ -1,0 +1,27 @@
+{
+    "AS_Form_299a3599bdf24c6287a69513cdb52ae2": {
+        "id": "AS_Form_299a3599bdf24c6287a69513cdb52ae2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "signupFrm",
+            "type": "forms",
+            "platform": null,
+            "KUID": "90c328dee73142b08c2b08ff098a7cab"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___338bd0a2dcb74c1fa7f91a414621b8c9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "signupFormEffect",
+            "display": "signupFormEffect",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

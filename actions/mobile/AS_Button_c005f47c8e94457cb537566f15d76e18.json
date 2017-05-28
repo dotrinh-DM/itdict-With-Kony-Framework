@@ -1,0 +1,27 @@
+{
+    "AS_Button_c005f47c8e94457cb537566f15d76e18": {
+        "id": "AS_Button_c005f47c8e94457cb537566f15d76e18",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "dashboardFrm",
+            "type": "forms",
+            "platform": null,
+            "KUID": "1efaaa63ff344ed89e7a96815402657d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d8074a4177764c458145892edbca0f48",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "exitDashboardAnimation",
+            "display": "exitDashboardAnimation",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

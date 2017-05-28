@@ -1,0 +1,27 @@
+{
+    "AS_Form_cfec442e70ed4fc7a2c4c5070bf4a2e3": {
+        "id": "AS_Form_cfec442e70ed4fc7a2c4c5070bf4a2e3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "loginFrm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "509f86ade42243618d4ffdf019a506d3"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___2ed4dc8d89c446ddabd2953e90cce56d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preshowLoginAnimation",
+            "display": "preshowLoginAnimation",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}
