@@ -9,6 +9,9 @@ This includes:
 
 - You can translate word from english to japanese.
 - You can put a word to a favourite using touch in grey star in left of a word.
+- You can vote for a comment ưhich is the most accurate.
+- Quickly search with the left bottom Search button.
+- Quickly view the searched word list using the left bottom Home button.
 - You can contribute your word with the input in the below each word. Ex: Depending on the context, words are also used differently.
 - You can manage your favourite word in the dashboard.
 - You can remove all history which is in the main screen.
