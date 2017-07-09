@@ -3,6 +3,9 @@
 ## Overview
 A dictionary project which is build with Kony Mobile Framework (Multiplatform Mobile Framework).
 
+## Video Demo
+[![Alt text](https://img.youtube.com/vi/XKNhCkD6HGk/0.jpg)](https://www.youtube.com/watch?v=XKNhCkD6HGk)
+
 ## Functions
 
 This includes:
