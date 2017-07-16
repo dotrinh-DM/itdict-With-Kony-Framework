@@ -1,7 +1,7 @@
 # itDict
 
 ## Overview
-A dictionary project which is build with Kony Mobile Framework (Multiplatform Mobile Framework).
+A Dictionary Social Network Service (SNS) project that is built with Kony Mobile Framework (Multiplatform Mobile Framework)
 
 ## Video Demo
 [![Alt text](https://img.youtube.com/vi/XKNhCkD6HGk/0.jpg)](https://www.youtube.com/watch?v=XKNhCkD6HGk)
@@ -10,6 +10,7 @@ A dictionary project which is build with Kony Mobile Framework (Multiplatform Mo
 
 This includes:
 
+- The System supports Social Network features.
 - You can translate word from english to japanese.
 - You can put a word to a favourite using touch in grey star in left of a word.
 - You can vote for a comment ưhich is the most accurate.
